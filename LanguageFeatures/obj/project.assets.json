@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xg47\\.nuget\\packages\\": {}
+    "C:\\Users\\mymsn\\.nuget\\packages\\": {},
+    "C:\\Users\\mymsn\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\LanguageFeatures.csproj",
+      "projectUniqueName": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\LanguageFeatures.csproj",
       "projectName": "LanguageFeatures",
-      "projectPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\LanguageFeatures.csproj",
-      "packagesPath": "C:\\Users\\xg47\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\obj\\",
+      "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\LanguageFeatures.csproj",
+      "packagesPath": "C:\\Users\\mymsn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\mymsn\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\xg47\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

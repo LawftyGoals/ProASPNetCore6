@@ -1,12 +1,6 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using System.Text.Json;
-
-namespace LanguageFeatures.Controllers
-{
-    public class HomeController : Controller
-    {
-        public ViewResult Index()
-        {
+﻿namespace LanguageFeatures.Controllers {
+    public class HomeController : Controller {
+        public ViewResult Index() {
             //Product?[] products = Product.GetProducts();
 
 
@@ -59,9 +53,16 @@ namespace LanguageFeatures.Controllers
             //}
 
             ShoppingCart cart = new() { Products = Product.GetProducts() };
-            decimal cartTotal = cart.TotalPrices();
+            //decimal cartTotal = cart.TotalPrices();
+            //
+            //return View("Index", new string[] { $"Total: {cartTotal:C2}" });
 
-            return View("Index", new string[] { $"Total: {cartTotal:C2}" });
+            Product[] productArray = { new Product { Name = "Kayak", Price = 265M }, new Product { Name = "Lifejacket", Price = 48.95M } };
+
+            decimal cartTotal = cart.TotalPrices();
+            decimal arrayTotal = productArray.TotalPrices();
+
+            return View("Index", new string[] { $"Cart: {cartTotal:C2}", $"Array: {arrayTotal:C2}" });
         }
     }
 }

@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\",
+  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\proaspnetcore6\\languagefeatures\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\proaspnetcore6\\languagefeatures\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A6C5E702-4ABA-41E0-AE3A-643A6424B759}|LanguageFeatures.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -42,65 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyExtensionMethods.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "RelativeDocumentMoniker": "Models\\MyExtensionMethods.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
-              "RelativeToolTip": "Models\\MyExtensionMethods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:04:45.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Models\\ShoppingCart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:02:00.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\GlobalUsing.cs",
-              "RelativeToolTip": "GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:35:45.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T11:28:02.45Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,22 +60,61 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwDsAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T11:21:38.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Models\\MyExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "RelativeToolTip": "Models\\MyExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:04:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:11:52.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:02:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,16 +123,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T11:28:02.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ProASPNetCore6\\LanguageFeatures\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T11:11:52.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T11:35:45.694Z"
             }
           ]
         }
